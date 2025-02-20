@@ -1,4 +1,4 @@
-
+--lol
 local function rs()
     workspace:WaitForChild("GameEvents"):WaitForChild("StartPlayer"):FireServer()
     print("fire!")
